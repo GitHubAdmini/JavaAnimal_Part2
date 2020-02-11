@@ -1,7 +1,22 @@
 public class Animal {
     private String name;
-        public void sound() { System.out.println("sound");}
-        public void eat() {System.out.println(name + "eats");}
+
+    public String sound() {
+        return "Barks";
     }
+    public String eat() {
+        String food = "Food";
+        return food;
+
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}
 
 

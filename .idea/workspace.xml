@@ -2,46 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5268b78-73f8-4517-83a5-0e98f59ccc11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Home.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Home.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AnimalsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Home.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +44,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/test" />
   </component>
   <component name="ProjectId" id="1XQruESiUOHg5VBDuYWICF9HciN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,58 +55,116 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Animals.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Animals [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.AnimalsTests.TestCatEats">
+    <configuration name="AnimalsTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="--tests &quot;AnimalsTests&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="dependencies" />
+            <option value=":cleanTest" />
+            <option value=":test" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Animals [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="AnimalsTests.TestCatEats" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="--tests &quot;AnimalsTests.TestCatEats&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value="test" />
+            <option value=":cleanTest" />
+            <option value=":test" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AnimalsTests.TestCatSound" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AnimalsTests.TestCatSound&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AnimalsTests.TestDogEats" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AnimalsTests.TestDogEats&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AnimalsTests.TestDogSound" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AnimalsTests.TestDogSound&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Animals [dependencies]" />
-        <item itemvalue="Gradle.Animals [test]" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.AnimalsTests.TestCatEats" />
+        <item itemvalue="Gradle.AnimalsTests.TestDogEats" />
+        <item itemvalue="Gradle.AnimalsTests.TestCatSound" />
+        <item itemvalue="Gradle.AnimalsTests.TestDogSound" />
+        <item itemvalue="Gradle.AnimalsTests" />
       </list>
     </recent_temporary>
   </component>
@@ -145,29 +186,53 @@
       <screen x="67" y="27" width="1373" height="873" />
     </state>
     <state x="348" y="124" width="800" height="729" key="#Intentions/67.27.1373.873@67.27.1373.873" timestamp="1581066354923" />
+    <state x="561" y="149" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1581328012812">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="561" y="149" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1373.873@67.27.1373.873" timestamp="1581328012812" />
     <state x="829" y="211" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1580996515026">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
     <state x="829" y="211" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/67.27.1373.873@67.27.1373.873" timestamp="1580996515026" />
-    <state width="1327" height="219" key="GridCell.Tab.0.bottom" timestamp="1581080548224">
+    <state width="641" height="233" key="GridCell.Tab.0.bottom" timestamp="1581411214251">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state width="1327" height="219" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1581080548224" />
-    <state width="1327" height="219" key="GridCell.Tab.0.center" timestamp="1581080548223">
+    <state width="641" height="233" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1581411214251" />
+    <state width="641" height="233" key="GridCell.Tab.0.center" timestamp="1581411214250">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state width="1327" height="219" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1581080548223" />
-    <state width="1327" height="219" key="GridCell.Tab.0.left" timestamp="1581080548223">
+    <state width="641" height="233" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1581411214250" />
+    <state width="641" height="233" key="GridCell.Tab.0.left" timestamp="1581411214250">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state width="1327" height="219" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1581080548223" />
-    <state width="1327" height="219" key="GridCell.Tab.0.right" timestamp="1581080548224">
+    <state width="641" height="233" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1581411214250" />
+    <state width="641" height="233" key="GridCell.Tab.0.right" timestamp="1581411214251">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state width="1327" height="219" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1581080548224" />
-    <state x="409" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1581061877511">
+    <state width="641" height="233" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1581411214251" />
+    <state width="1327" height="272" key="GridCell.Tab.1.bottom" timestamp="1581335294615">
       <screen x="67" y="27" width="1373" height="873" />
     </state>
-    <state x="409" y="290" key="com.intellij.ide.util.TipDialog/67.27.1373.873@67.27.1373.873" timestamp="1581061877511" />
+    <state width="1327" height="272" key="GridCell.Tab.1.bottom/67.27.1373.873@67.27.1373.873" timestamp="1581335294615" />
+    <state width="1327" height="272" key="GridCell.Tab.1.center" timestamp="1581335294615">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.1.center/67.27.1373.873@67.27.1373.873" timestamp="1581335294615" />
+    <state width="1327" height="272" key="GridCell.Tab.1.left" timestamp="1581335294615">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.1.left/67.27.1373.873@67.27.1373.873" timestamp="1581335294615" />
+    <state width="1327" height="272" key="GridCell.Tab.1.right" timestamp="1581335294615">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state width="1327" height="272" key="GridCell.Tab.1.right/67.27.1373.873@67.27.1373.873" timestamp="1581335294615" />
+    <state x="409" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1581407544633">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="409" y="290" key="com.intellij.ide.util.TipDialog/67.27.1373.873@67.27.1373.873" timestamp="1581407544633" />
+    <state x="67" y="27" width="1363" height="813" key="new project wizard" timestamp="1581320923190">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="67" y="27" width="1363" height="813" key="new project wizard/67.27.1373.873@67.27.1373.873" timestamp="1581320923190" />
   </component>
 </project>

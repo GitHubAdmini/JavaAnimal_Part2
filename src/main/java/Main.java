@@ -11,7 +11,8 @@ public class Main {
             home.AdoptPet(cat1);
             home.makeAllSounds();
 
-
+            //dog1.setName("Stormy");
+            //System.out.println(dog1.getName());
     }
 }
 
